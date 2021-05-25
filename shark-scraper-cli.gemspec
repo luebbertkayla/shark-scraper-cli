@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Shark and Ray CLI"
   spec.description   = "Provides information on 40 sharks and rays."
-  spec.homepage      = "https://rubygems.org/"
+  spec.homepage      = "https://rubygems.org/gems/shark-scraper-cli"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
