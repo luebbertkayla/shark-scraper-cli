@@ -1,6 +1,6 @@
 # shark-scraper-cli
 
-This Ruby gem provides a CLI for you to learn about 40 sharks and rays as seen on Oceana's Sharks & Rays Encyclopedia. By inputting the number corresponding to the shark or ray you wish to learn more about, you will get access to some quick facts about the animal. You will learn about their scientific name, distribution, habitat, feeding, taxonomy, and will be given a short description.
+This Ruby gem provides a CLI for you to learn about 40 sharks and rays as seen on Oceana's Sharks & Rays Encyclopedia. By inputting the number corresponding to the shark or ray you wish to learn more about, you will get access to some quick facts about the animal. You will learn about its scientific name, distribution, habitat, feeding, taxonomy, and will be given a short description.
 
 ## Installation
 
