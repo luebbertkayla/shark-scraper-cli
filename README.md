@@ -26,9 +26,5 @@ Contributions to the project are welcome on GitHub at https://github.com/luebber
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## Code of Conduct
-
-Contributions to the project are welcome on GitHub at https://github.com/luebbertkayla/shark-scraper-cli. When contributing, please follow the [Covenant Code of Conduct](https://github.com/probot/template/blob/master/CODE_OF_CONDUCT.md).
-
 ## Sources
 This project is inspired by [Oceana's Sharks & Rays Encyclopedia](https://oceana.org/marine-life/sharks-rays).
