@@ -1,19 +1,21 @@
 PATH
   remote: .
   specs:
-    shark-scraper-cli (0.1.5)
-      nokogiri
+    shark-scraper-cli (0.1.6)
+      nokogiri (>= 1.11.7)
 
 GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.2)
-    nokogiri (1.11.3-x86_64-darwin)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
     parallel (1.20.1)
     parser (3.0.1.1)
       ast (~> 2.4.1)
-    racc (1.5.2)
+    racc (1.8.1)
     rainbow (3.0.0)
     rake (13.0.3)
     regexp_parser (2.1.1)
@@ -33,6 +35,7 @@ GEM
     unicode-display_width (2.0.0)
 
 PLATFORMS
+  universal-darwin-23
   x86_64-darwin-20
 
 DEPENDENCIES
